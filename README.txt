@@ -12,7 +12,7 @@ kidney pressure exceeds his or her threshold pressure value.
 
 Details about the app and usage
 :
--The app has four activities or simply screens. They cosist of 
+-The app has four activities or simply screens. They consist of 
 login (main) activity, options activity, patient information activity, and 
 graph activity. When the app is activated, a user is guided to a login page. 
 When the login button in the login activity is pressed, the user is transfer-
@@ -20,7 +20,7 @@ red to options activity. In the options activity, the user may see two
 buttons: a button to patient's information activity, another button to 
 graph activity. When either is button is pressed, the user is transferred
 accordingly. In the patient's information activity, the user will be provid-
-ed with the patient's information mentioned in the descrition above.
+ed with the patient's information mentioned in the description above.
 . And in the graph activity, the user has access to a plot of the 
 patient's pressure vs time. In both patient's information activity 
 and graph activity, users are provided with a return button which allows
