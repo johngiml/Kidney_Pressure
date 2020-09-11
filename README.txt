@@ -10,10 +10,16 @@ d a plot of his or her pressure vs time and to notify a user if any patient's
 kidney pressure exceeds his or her threshold pressure value. 
 
 
-Where to find all the Java files
+Where to find all the Java files, design files (XMLs), APK (initial app file) 
 :
-Please, take the following path on this GitHub website: https://github.com/johngiml/Kidney_Pressure
+1). For the Java files, please, take the following path on this GitHub website: https://github.com/johngiml/Kidney_Pressure
 Path: /app/src/main/java/firstloop/john/kidneyuserinterface/
+
+2). For the design files for all the activities, please, take the following path on https://github.com/johngiml/Kidney_Pressure
+Path: Kidney_Pressure/app/src/main/res/layout/ 
+
+3). You can also download the very first app file on: https://github.com/johngiml/Kidney_Pressure
+The name of the file is: Sept6thVersion6.0_Notification_working.apk
 
 
 
